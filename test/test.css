@@ -1,0 +1,6 @@
+/* CSS Document */
+canvas{
+	display:block;
+	margin:50px auto;
+	box-shadow: -2px -2px 2px #FF0000,5px 5px 5px #00FF00;/*设置棋盘阴影效果*/
+}
